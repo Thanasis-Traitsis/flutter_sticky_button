@@ -11,7 +11,7 @@ There are countless scenarios where this behavior makes sense. I won’t limit y
 ## What we are going to build
 Before we dive into the code, let’s first see the final result. Here's a preview:
 
-[Video with the feature]
+![Sticky Button Demo](https://github.com/Thanasis-Traitsis/flutter_sticky_button/raw/main/sticky_button.gif)
 
 What exactly is going on here:
 - When the button is visible in its natural position → nothing special happens.
